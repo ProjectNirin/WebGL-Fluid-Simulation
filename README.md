@@ -4,7 +4,7 @@ Licensed under the MIT License.
 
 # WebGL Fluid Simulation
 
-[Play here](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+[Play here](http://nirin.online/fluids)
 
 <img src="/screenshot.jpg?raw=true" width="880">
 
