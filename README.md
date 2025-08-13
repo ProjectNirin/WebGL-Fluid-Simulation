@@ -1,5 +1,10 @@
 # WebGL Fluid Simulation
 
+Based on the original WebGL Fluid Simulation by Pavel Dobryakov
+https://github.com/PavelDoGreat/WebGL-Fluid-Simulation
+Licensed under the MIT License.
+
+
 [Play here](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 
 <img src="/screenshot.jpg?raw=true" width="880">
